@@ -1,2 +1,2 @@
-# BasicCalculator
-Basic calculator built in C#
+//BasicCalculator
+/Basic calculator built in C#
